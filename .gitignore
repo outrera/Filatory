@@ -1,0 +1,5 @@
+#permanent ignores
+icon.png*
+
+#Release ignores
+Plot.md
